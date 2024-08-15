@@ -30,8 +30,7 @@
   <a href="mailto:vijayshankersharma658@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/thevijayshankersharma" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="Twitter" width="30" height="30" style="position: relative; bottom: 5px;" />
+  <a href="https://twitter.com/Thevijayshanker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevijayshankersharma" height="30" width="40" style="position: relative; bottom: 15px;"/>
   </a>
   <a href="https://dev.to/vijayshankersharma" target="_blank">
     <img src="https://img.icons8.com/windows/32/ffffff/dev.png" alt="Dev.to" width="40" height="40" />
